@@ -1,7 +1,7 @@
 # One Signal
 
-[![npm](https://img.shields.io/npm/v/onesignal.svg)](https://www.npmjs.com/package/onesignal)
-[![npm](https://img.shields.io/npm/l/onesignal.svg)](https://github.com/faressoft/onesignal/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/onesignal-api-override.svg)](https://www.npmjs.com/package/onesignal-api-override)
+[![npm](https://img.shields.io/npm/l/onesignal-api-override.svg)](https://github.com/NickSklyuev/onesignal-api-override/blob/master/LICENSE)
 
 <p align="center">
 <img src="/logo.png?raw=true" alt="OneSignal Logo"/>
@@ -14,7 +14,7 @@ A Wrapper for <a href="https://onesignal.com">OneSignal</a> Push Notification De
 # Installation
 
 ```
-npm install onesignal --save
+npm install onesignal-api-override --save
 ```
 
 # Usage
