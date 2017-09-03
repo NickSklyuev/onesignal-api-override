@@ -1,0 +1,29 @@
+{
+  "name": "onesignal-api-override",
+  "version": "0.0.3",
+  "description": "Wrapper module for OneSignal push notification delivery",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickSklyuev/onesignal-api-override.git"
+  },
+  "keywords": [
+    "push",
+    "notification",
+    "onesignal",
+    "one-signal",
+    "one signal",
+    "one",
+    "signal",
+    "android",
+    "ios",
+    "gcm",
+    "apns",
+    "wrapper",
+    "api"
+  ],
+  "author": "Sklyuev Nikita <service.ru@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
