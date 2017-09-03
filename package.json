@@ -1,6 +1,6 @@
 {
   "name": "onesignal-api-override",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Wrapper module for OneSignal push notification delivery",
   "repository": {
     "type": "git",
